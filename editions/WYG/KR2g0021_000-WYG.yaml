@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0021/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部七
+  hash: sha256:1b6640596a5064ea3fb39af388ca6b846d3ddcc674207e8493e72e4c4059763a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0021_WYG_000-1a, image: WYG0448/WYG0448-0283a.png}
+body:
+  text: 㢘吏傳傳記類三總錄之屬提要臣等謹案㢘吏傳二巻宋費樞撰樞字伯樞成都人其仕履始末則無考也是書書錄解題作十巻此本祗分上下二巻與舊目不符然㫁自列國迄于隋唐凡百十有四人與陳振孫所記人數相合則巻數有所合併文字無所刪薙也大㫖以風厲㢘隅為主故但能謹飭簠簋即畧其他事節畧一長每𫝊各系以論㫁如華歆禇淵之屬皆極為揚㩁褒貶或偶失謹嚴史稱盖寛饒深刻陷害人樞既病其清太介不能容物唐狄士文史亦稱其深文陷害樞又惜其公正受禍持論亦自相矛盾然如載公孫宏並著其忌賢之謀載牛僧儒亦書其朋黨之罪綜核大致其議論去取猶可謂不䛕不隠者矣乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:cf52c53c3b02746e4623853e7b89adc510579860ea8da11efdc3bbc0bfb906f4
+metadata:
+  title: 廉吏傳
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:34:51.615017'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2g0021/KR2g0021_000.txt
+hash: sha256:3326301d6986f592acf855f9c7e5da44ae73ce7aa520132be104612f434dbf31
